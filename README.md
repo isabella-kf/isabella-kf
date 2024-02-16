@@ -1,6 +1,6 @@
 👋 **Hello, I'm Isabella.**
 
-I bring a wealth of experience from the sustainability realm, and I'm motivated to to apply my knowledge in deciphering trends, predicting patterns, and shaping data-driven strategies.
+I bring a wealth of experience from the sustainability realm, and I'm motivated to to apply my knowledge in deciphering trends, communicating insights and building data-driven strategies.
 
 My skills include Python, SQL, Excel, Power BI, Tableau, statistics, A/B testing, data cleaning, data visualization, and presentations with storytelling.
 
